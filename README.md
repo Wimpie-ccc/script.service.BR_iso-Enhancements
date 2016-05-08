@@ -13,7 +13,7 @@ In Kodi: System / Settings / Add-ons / Install from zip file  -> select "script.
 
 Usage:
 =======
-You need to know what playlist you want to play from the bluray.
+You need to know what playlist you want to play from the bluray. The .PlayList[...]. filename tag controls the addon.
 
 
 eg:
