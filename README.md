@@ -11,6 +11,9 @@ Rename "script.service.BR_iso-Enhancements_vx.x.x.zip" to "script.service.BR_iso
 
 In Kodi: System / Settings / Add-ons / Install from zip file  -> select "script.service.BR_iso-Enhancements.zip"
 
+Make sure the addon is enabled.
+
+
 Usage:
 =======
 You need to know what playlist you want to play from the bluray. The ".PlayList[...]." filename tag controls the addon.
